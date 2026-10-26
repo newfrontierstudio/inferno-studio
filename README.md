@@ -4,6 +4,8 @@
 
 [最新版をダウンロード](https://github.com/newfrontierstudio/inferno-studio/releases/latest)
 
+**0.8.1：Zoo／StudioのInfernoボタンから起動できない問題を修正しました。0.8.0を導入済みの場合は、最新版で上書き更新してください。**
+
 ## 主な機能
 
 - IN／OUTで範囲を選び、不要な部分を削除。元動画は残して別ファイルへ書き出します。
